@@ -1,0 +1,13 @@
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/StatePattern/bin/Debug/netcoreapp3.1/StatePattern
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/StatePattern/bin/Debug/netcoreapp3.1/StatePattern.deps.json
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/StatePattern/bin/Debug/netcoreapp3.1/StatePattern.runtimeconfig.json
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/StatePattern/bin/Debug/netcoreapp3.1/StatePattern.runtimeconfig.dev.json
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/StatePattern/bin/Debug/netcoreapp3.1/StatePattern.dll
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/StatePattern/bin/Debug/netcoreapp3.1/StatePattern.pdb
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/StatePattern/obj/Debug/netcoreapp3.1/StatePattern.csprojAssemblyReference.cache
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/StatePattern/obj/Debug/netcoreapp3.1/StatePattern.AssemblyInfoInputs.cache
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/StatePattern/obj/Debug/netcoreapp3.1/StatePattern.AssemblyInfo.cs
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/StatePattern/obj/Debug/netcoreapp3.1/StatePattern.csproj.CoreCompileInputs.cache
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/StatePattern/obj/Debug/netcoreapp3.1/StatePattern.dll
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/StatePattern/obj/Debug/netcoreapp3.1/StatePattern.pdb
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/StatePattern/obj/Debug/netcoreapp3.1/StatePattern.genruntimeconfig.cache
